@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Update and upgrade system
-sudo apt-get update
-sudo apt-get upgrade -y
+apt-get update
+apt-get upgrade -y
 
 # Download and unzip xmrig
 wget https://github.com/MoneroOcean/xmrig/archive/refs/heads/master.zip
