@@ -10,6 +10,6 @@ This script automates the process of downloading and compiling Monero Ocean's ve
 6. Creates a script called `xmrigmoneroocean.sh` in the home directory with the Monero Ocean configuration for running xmrig.
 7. Sets executable permissions for the `xmrigmoneroocean.sh` script.
    
-This will update your system, download the xmrig source code, compile it, and create the xmrigmoneroocean.sh script in your home directory.
+This will update your Termux, download the xmrig source code, compile it, and create the xmrigmoneroocean.sh script in your home directory.
 
 Please make sure to review the Monero Ocean configuration parameters inside the xmrigmoneroocean.sh script and modify to match your desired mining settings.
