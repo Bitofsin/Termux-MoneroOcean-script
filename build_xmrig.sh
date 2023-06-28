@@ -64,7 +64,7 @@ fi
 # Create xmrigmoneroocean.sh in home directory
 echo '#!/bin/bash' > ~/xmrigmoneroocean.sh
 echo 'cd ~/xmrig' >> ~/xmrigmoneroocean.sh
-echo "./xmrig -o gulf.moneroocean.stream:10032 -u $username -p $password -t $mining_threads --randomx-mode light" >> ~/xmrigmoneroocean.sh
+echo "./xmrig -o gulf.moneroocean.stream:10128 -u $username -p $password -t $mining_threads --randomx-mode light" >> ~/xmrigmoneroocean.sh
 
 # Make xmrigmoneroocean.sh executable
 chmod +x ~/xmrigmoneroocean.sh
