@@ -7,6 +7,9 @@ apt-get upgrade -y
 # Install wget
 sudo apt-get install -y wget
 
+# Install cmake
+sudo apt-get install -y cmake
+
 # Download and unzip xmrig
 wget https://github.com/MoneroOcean/xmrig/archive/refs/heads/master.zip
 unzip master.zip
