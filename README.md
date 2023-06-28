@@ -29,7 +29,15 @@ To customize the script, follow these steps:
 4. Save the changes to the script.
 5. Execute the script and it will use the provided values or defaults.
 
-**Note:** Before engaging in cryptocurrency mining, please ensure that you have proper authorization and comply with all applicable laws and regulations.
+## Release of Liability
+
+By using this script, you acknowledge and agree to the following:
+
+1. The script is provided on an "as-is" basis, without any warranties or guarantees of any kind, express or implied.
+2. The script creator shall not be held responsible or liable for any misuse, damage, loss of data, or any other harm caused by the use of this script.
+3. You assume all responsibility and liability for the usage of this script.
+4. It is your sole responsibility to ensure that you have the necessary authorization and comply with all applicable laws and regulations before engaging in cryptocurrency mining.
+5. The script creator disclaims any and all liability for any actions, damages, or losses resulting from the use or misuse of this script.
 
 ## Usage
 
