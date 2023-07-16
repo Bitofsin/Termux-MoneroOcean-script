@@ -3,11 +3,11 @@
 # This script automates the process of downloading and compiling Monero Ocean's version of xmrig.
 
 # Update and upgrade system
-sudo apt-get update
-sudo apt-get upgrade -y
+apt-get update
+apt-get upgrade -y
 
 # Install wget
-sudo apt-get install -y wget
+apt-get install -y wget
 
 # Download and unzip xmrig
 wget https://github.com/MoneroOcean/xmrig/archive/refs/heads/master.zip
